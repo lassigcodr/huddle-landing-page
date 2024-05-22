@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site: [Click here](https://ctrlwisdom.github.io/huddle-landing-page/index.html)
+- Live Site: [Click here](https://lassigcodr.github.io/huddle-landing-page/index.html)
 
 ## Author
 
